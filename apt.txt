@@ -1,0 +1,7 @@
+gfortran
+openmpi-bin
+libopenmpi-dev
+imagemagick
+ffmpeg
+emacs
+vim

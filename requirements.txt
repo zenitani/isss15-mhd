@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+tqdm
+ipywidgets
+pillow
+opencv-python
